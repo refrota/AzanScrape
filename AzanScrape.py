@@ -22,7 +22,7 @@ syuruk = solat_times[13].text
 maghrib = solat_times[16].text
 isya = solat_times[19].text
 
-# grabs date (still on the works, unable to extract test)
+# grabs date (still on the works, unable to extract date from webpage)
 # E_date = page_soup.findAll("div", {"id":"E_date"})
 # print(E_date)
 
